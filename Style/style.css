@@ -100,7 +100,8 @@ h1{
     height: 100px;
     width: 100%;
     background-color: whitesmoke;
-    font-family: 'Chivo Mono', monospace
+    font-family: 'Chivo Mono', monospace;
+    border: 3px solid green;
 }
 .harddisk{
     margin-left: 10px;
