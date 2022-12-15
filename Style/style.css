@@ -94,19 +94,23 @@ h1{
 .console{
     border: 2px;
     padding: 5px;
-    opacity: 0.3;
+    opacity: 0.5;
     margin-bottom: 25px;
     margin-right: 250px;
-    height: 75px;
+    height: 100px;
     width: 100%;
     background-color: whitesmoke;
     font-family: 'Chivo Mono', monospace
-
-
 }
-.hola{
-    margin-left: -50px;
-    width: 1000px;
-    height: 10px;
-    padding: 15px;
+.harddisk{
+    margin-left: 10px;
+    margin-top: -150px;
+    width :100px;
+    height: 100px;
+}
+.equipo{
+    margin-top: 40px;
+    margin-left: 120px;
+    color: black;
+    font-size: 25px;
 }
